@@ -1,5 +1,7 @@
 # vue-test
 
+用于测试各种vue项目相关的一些技术和特性
+
 ## Project setup
 ```
 npm install
